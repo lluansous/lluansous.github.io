@@ -31,22 +31,9 @@ In this section, you’ll find a collection of my work in machine learning, stat
   View here: Principal component analysis and hierarchical clustering for glass type identification. </a>
 
 
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/luansousa-eude) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+**May 2025:** I have set up the [online-coffee-time](https://calendly.com/luansousa-eude) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/luansousa-eude/30min" style="min-width:320px;height:700px;"></div>
