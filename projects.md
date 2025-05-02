@@ -27,7 +27,8 @@ In this section, you’ll find a collection of my work in machine learning, stat
 
 <br>The goal of this work is to explore the Glass Identification dataset using these two multivariate techniques. Principal Component Analysis (PCA) will be used to reduce the dataset's dimensionality and facilitate pattern visualization, while Cluster Analysis will be applied to identify potential glass groups related to their categories. The application of these techniques not only demonstrates their usefulness in analytical contexts but also highlights how statistical tools can be applied in practical fields, such as forensic science, to aid in interpreting complex data and supporting informed decision-making.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<a href="/mypaper/modeling/pca.pdf" target="_blank">
+  View here: Principal component analysis and hierarchical clustering for glass type identification. </a>
 
 
 ## Past Hobbies
@@ -45,11 +46,9 @@ She is my love. Her name is Qbao (Q宝).
 
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/luansousa-eude) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/luansousa-eude/30min" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
-
