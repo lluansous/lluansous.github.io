@@ -34,7 +34,6 @@ In my free time, I enjoy games, culinary explorations, among many other things.
 ## News and Updates
 
 - **August 2024**：Presented our work "Adjusted Zero Gamma Inverse Regression Model" (Modelo de regressão gama inversa com zeros ajustados) at the 25º SINAPE in Fortaleza!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **March 2025：**Successfully defended my monograph "Predictive Modeling of League of Legends Using Supervised Learning" (Modelagem Preditiva de League of Legends Usando Aprendizado Supervisionado) and received top honors!
 
 <br>
