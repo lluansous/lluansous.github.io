@@ -20,14 +20,12 @@ In this section, you’ll find a collection of my work in machine learning, stat
 <a href="/mypaper/modeling/Comparação_de_Modelos_Gradient_Boosting.pdf" target="_blank">
   View here: Comparison of Gradient Boosting Machine models: performance and efficiency in different regression and classification scenarios. </a>
 
-## Workshop
+## Principal component analysis and hierarchical clustering for glass type identification
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+
+<img src="/images/pcas.png" style="width:800px;">
+
+<br>The goal of this work is to explore the Glass Identification dataset using these two multivariate techniques. Principal Component Analysis (PCA) will be used to reduce the dataset's dimensionality and facilitate pattern visualization, while Cluster Analysis will be applied to identify potential glass groups related to their categories. The application of these techniques not only demonstrates their usefulness in analytical contexts but also highlights how statistical tools can be applied in practical fields, such as forensic science, to aid in interpreting complex data and supporting informed decision-making.
 
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
