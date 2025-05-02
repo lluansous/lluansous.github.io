@@ -18,7 +18,9 @@ In this section, you’ll find a curated collection of my work in machine learni
 <br>Comparative analysis of various Gradient Boosting Machine (GBM) models applied to diverse datasets, evaluating their performance across different scenarios. Our study focused on assessing each model’s efficiency in handling both regression and classification tasks, with particular emphasis on large-scale datasets and non-numerical features.
 
 <a href="/mypaper/modeling/Comparação_de_Modelos_Gradient_Boosting.pdf" target="_blank">
-  Ver PDF: Comparação de Modelos Gradient Boosting
+  View here: Comparison of Gradient Boosting Machine models: performance and efficiency in different regression and classification scenarios. 
+
+
 </a>
 
 ## Workshop
