@@ -12,9 +12,9 @@ In this section, you’ll find a curated collection of my work in machine learni
 
 ## Gradient Boosting Machine Comparative
 
-<div class="third">
-<img src="/images/gradientt.png">
-</div>
+
+<img src="/images/gradientt.png" style="width:50%;">
+
 <br>Comparative analysis of various Gradient Boosting Machine (GBM) models applied to diverse datasets, evaluating their performance across different scenarios. Our study focused on assessing each model’s efficiency in handling both regression and classification tasks, with particular emphasis on large-scale datasets and non-numerical features.
 ## Workshop
 
