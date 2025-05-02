@@ -40,6 +40,6 @@ In my free time, I enjoy games, culinary explorations, among many other things.
 <br>
 
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7305338689465810944/" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/linkedin-post-preview.png" alt="Ver post no LinkedIn" style="width:100%; max-width:600px; border-radius: 8px;">
+  <img src="/images/linkedin-post-preview.png" alt="Ver post no LinkedIn" style="width:100%; max-width:600px; border-radius: 8px;">
 </a>
 
