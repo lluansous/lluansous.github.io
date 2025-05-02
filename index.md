@@ -33,12 +33,13 @@ In my free time, I enjoy games, culinary explorations, among many other things.
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
+- **August 2024**：Presented our work "Adjusted Zero Gamma Inverse Regression Model" (Modelo de regressão gama inversa com zeros ajustados) at the 25º SINAPE in Fortaleza!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **March 2025：**Successfully defended my monograph "Predictive Modeling of League of Legends Using Supervised Learning" (Modelagem Preditiva de League of Legends Usando Aprendizado Supervisionado) and received top honors!
 
 <br>
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7305338689465810944/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/linkedin-post-preview.png" alt="Ver post no LinkedIn" style="width:100%; max-width:600px; border-radius: 8px;">
+</a>
 
