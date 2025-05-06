@@ -9,11 +9,7 @@ title: Publications
 
 ## Poster Presentation
 
-- Analyzing data with zero-valued observations poses challenges in fields like econometrics, biological sciences, and actuarial science, where variables of interest often include a significant proportion of zeros. This occurs, for example, in vehicle insurance claim frequency (where some clients report no claims) or ecological studies (where species may be absent in certain samples). Traditional regression models (e.g., gamma regression) fail here, as they require strictly positive dependent variables.
-
-A common solution is zero-adjusted (or zero-inflated) regression models, which separately model the probability of zero vs. positive observations. Recently, Vitorino (2024) proposed an innovative zero-adjusted inverse gamma distribution for such data but did not incorporate a regression framework, limiting its use to descriptive analysis.
-
-This work extends Vitorino’s (2024) distribution into a regression structure, enabling analysis of dependent variables with explanatory covariates. The proposed zero-adjusted regression model evaluates covariate effects, offering a more flexible and comprehensive statistical tool for zero-inflated data applications.
+- Analyzing data with zero-valued observations poses challenges in fields like econometrics, biological sciences, and actuarial science, where variables of interest often include a significant proportion of zeros. This occurs, for example, in vehicle insurance claim frequency (where some clients report no claims) or ecological studies (where species may be absent in certain samples). Traditional regression models (e.g., gamma regression) fail here, as they require strictly positive dependent variables. A common solution is zero-adjusted (or zero-inflated) regression models, which separately model the probability of zero vs. positive observations. Recently, Vitorino (2024) proposed an innovative zero-adjusted inverse gamma distribution for such data but did not incorporate a regression framework, limiting its use to descriptive analysis. This work extends Vitorino’s (2024) distribution into a regression structure, enabling analysis of dependent variables with explanatory covariates. The proposed zero-adjusted regression model evaluates covariate effects, offering a more flexible and comprehensive statistical tool for zero-inflated data applications.
 
 
 
