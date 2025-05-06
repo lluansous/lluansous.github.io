@@ -4,7 +4,8 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+![](/images/Outliers.png)
+
 
 ## Working Paper
 
