@@ -8,7 +8,7 @@ layout: page
 
 Here is **Luan Sousa**.<br>
 
-I am Bachelor’s degree in Statistics and Data Science from the Federal University of Ceará (UFC), where I received a solid foundation in Statistics, Machine Learning, and Programming. I am proficient in Python and R, data retrieval and processing with SQL, predictive modeling using scikit-learn, and data visualization with Tableau, Matplotlib, and Seaborn.
+I am a graduate student in the Department of Statistic and Data Science from the Federal University of Ceará (UFC), advised by Prof. Manoel Santos Neto. I received a solid foundation in Statistics, Machine Learning, and Programming. I am proficient in Python and R, data retrieval and processing with SQL, predictive modeling using scikit-learn, and data visualization with Tableau, Matplotlib, and Seaborn.
 
 
 I have worked and conducted research in Machine Learning (supervised and unsupervised learning) and Generalized Linear Models. Currently, I work on predictive modeling research using supervised learning to forecast outcomes in real-time electronic sports matches, specifically, League of Legends. I am constantly seeking to learn new concepts and techniques to apply them to real-world challenges, always focusing on generating value and meaningful insights.
