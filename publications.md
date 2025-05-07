@@ -83,7 +83,7 @@ title: Publications
   }
   .pdf-button {
     display: inline-block;
-    background: #2c3e50;
+    background: ##b2c1cf;
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 4px;
@@ -93,6 +93,6 @@ title: Publications
     transition: background 0.2s ease;
   }
   .pdf-button:hover {
-    background: #b2c1cf;
+    background: #2c3e50;
   }
 </style>
