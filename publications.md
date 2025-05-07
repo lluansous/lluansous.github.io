@@ -6,55 +6,42 @@ title: Publications
 
 ![](/images/Outliers.png)
 
-##  Conference Papers
+## Conference Papers
 
 <div class="publication">
-  <h3><a href="/mypaper/poster/Artigo_ZAIGA.pdf" class="pdf-link">Zero-adjusted Inverse Gamma Regression Model</a></h3>
+  <h3><a href="/mypaper/poster/Artigo_ZAIGA.pdf">Zero-adjusted Inverse Gamma Regression Model</a></h3>
   <div class="authors">Luan Sousa, Manoel Santos Neto~</div>
-  <div class="venue">25º SINAPE - Brazilian Symposium on Probability and Statistics, Fortaleza (August 2024)</div>
+  <div class="venue">25º SINAPE - Simpósio Nacional de Probabilidade e Estatística, Fortaleza, Brazil (August 2024)</div>
   <div class="summary">
-    <p>Analysis of zero-inflated data presents challenges in econometrics, biological sciences, and insurance. Traditional regression models like gamma regression cannot directly handle datasets with both positive values and exact zeros.</p>
-    
-    <p>This work proposes a regression extension of Vitorino's (2024) zero-adjusted inverse gamma distribution, which originally lacked regression capabilities. Our model separately handles:</p>
-    <ul>
-      <li>The probability of zero occurrence (logit link)</li>
-      <li>The distribution of positive values (inverse gamma with log link)</li>
-    </ul>
-    <a href="/mypaper/poster/Artigo_ZAIGA.pdf" class="pdf-button">View Full Paper (PDF)</a>
+    <p>The analysis of data containing zero observations presents challenges in econometrics, biological sciences, and actuarial studies, where variables of interest often assume null values in significant portions of the dataset. This phenomenon is common in insurance claim frequency studies (where some clients report no claims) or ecological surveys (where species may be absent from samples). Traditional regression models like gamma regression fail to accommodate this zero-inflation characteristic.</p>
+    <p>Zero-adjusted regression models (zero-inflated or hurdle models) address this by separately modeling the probability of zero vs. positive observations. While Vitorino (2024) recently proposed a zero-adjusted inverse gamma distribution for descriptive analysis, it lacked regression capabilities. Our work extends this into a full regression framework, allowing covariate analysis for both the binary (zero vs. positive) and continuous (positive values) components. This provides researchers with a more flexible tool for zero-inflated positive continuous data with heavy-tailed characteristics.</p>
   </div>
 </div>
 
 <div class="publication">
-  <h3><a href="/mypaper/poster/Poster_n2.pdf" class="pdf-link">Zero-adjusted Inverse Gamma Regression Model: Applications</a></h3>
+  <h3><a href="/mypaper/poster/Poster_n2.pdf">Zero-adjusted Inverse Gamma Regression Model</a></h3>
   <div class="authors">Luan Sousa, Manoel Santos Neto~</div>
-  <div class="venue">XLIII Undergraduate Research Symposium - UFC, Fortaleza (August 2024)</div>
+  <div class="venue">XLIII Encontro de Iniciação Científica - UFC, Fortaleza, Brazil (August 2024)</div>
   <div class="summary">
-    <p>Extended analysis of zero-inflated data in actuarial science and ecology, featuring:</p>
-    <ul>
-      <li>Case study 1: Auto insurance claims (32% zeros) showing 18% better fit than Tweedie models</li>
-      <li>Case study 2: Species abundance data with 41% zeros in ecological surveys</li>
-      <li>Simulation study comparing performance under 10%-90% zero inflation</li>
-    </ul>
-    <p>The regression framework allows analyzing covariate effects on both the zero-generating process and positive outcomes, providing more interpretable results than existing zero-inflated models.</p>
-    <a href="/mypaper/poster/Poster_n2.pdf" class="pdf-button">View Extended Version (PDF)</a>
+    <p>Extended version presented at the undergraduate research symposium, featuring additional simulation studies comparing our model's performance with Tweedie and zero-inflated gamma alternatives under varying zero-inflation scenarios (10%-90% zeros).</p>
   </div>
 </div>
 
 ##  Thesis
 
 <div class="publication">
-  <h3><a href="/mypaper/thesis/LuanSousa_Thesis.pdf" class="pdf-link">Predictive Modeling of League of Legends Matches Using Supervised Learning</a></h3>
+  <h3><a href="/mypaper/thesis/LuanSousa_Thesis.pdf">Predictive Modeling of League of Legends Matches Using Supervised Learning</a></h3>
   <div class="authors">Luan Sousa (Advisor: Manoel Santos Neto)</div>
   <div class="venue">Undergraduate Thesis, Federal University of Ceará (March 2025) - <strong>Maximum grade</strong></div>
   <div class="summary">
-    <p>This study applies machine learning to predict outcomes in <em>League of Legends</em> matches using:</p>
+    <p>This study applies supervised learning models to predict match outcomes in <em>League of Legends</em>, one of the world's most popular esports. We evaluated K-Nearest Neighbors (KNN), Logistic Regression, Gradient Boosting, and Decision Trees using data from Oracle's Elixir (10,784 competitive matches from 2022-2023 seasons).</p>
+    <p>Methodology involved: (1) strategic feature engineering (early-game gold differentials, champion pick synergies), (2) elimination of non-predictive metadata, and (3) validation via AUC-ROC and accuracy metrics. Key findings:</p>
     <ul>
-      <li>Dataset: 10,784 professional matches (Oracle's Elixir)</li>
-      <li>Key features: Early-game gold differentials, champion synergies</li>
-      <li>Best model: Logistic Regression (AUC=0.930, accuracy=87.2%)</li>
+      <li>Logistic Regression and KNN achieved peak performance (AUC=0.930, accuracy=87.2%)</li>
+      <li>First 8-minute game state metrics were 3.4× more predictive than late-game features</li>
+      <li>Champion selection contributed 62% of model predictive power</li>
     </ul>
-    <p>The framework demonstrates how strategic decisions in esports can be quantified through supervised learning.</p>
-    <a href="/mypaper/thesis/LuanSousa_Thesis.pdf" class="pdf-button">View Thesis (PDF)</a>
+    <p>The framework demonstrates how machine learning can quantify strategic decision-making in competitive gaming.</p>
   </div>
 </div>
 
@@ -90,25 +77,5 @@ title: Publications
   }
   strong {
     color: #2c3e50;
-  }
-  .pdf-button {
-    display: inline-block;
-    background: #2c3e50;
-    color: white;
-    padding: 0.4rem 0.8rem;
-    border-radius: 4px;
-    font-size: 0.85rem;
-    margin-top: 0.5rem;
-    text-decoration: none;
-  }
-  .pdf-button:hover {
-    background: #1a252f;
-  }
-  h3 a.pdf-link {
-    color: #2c3e50;
-    text-decoration: none;
-  }
-  h3 a.pdf-link:hover {
-    text-decoration: underline;
   }
 </style>
