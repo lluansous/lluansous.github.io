@@ -9,28 +9,30 @@ title: Publications
 ## Conference Papers
 
 <div class="publication">
-  <h3><a href="/mypaper/poster/Artigo_ZAIGA.pdf">Zero-adjusted Inverse Gamma Regression Model</a></h3>
+  <h3>Zero-adjusted Inverse Gamma Regression Model</h3>
   <div class="authors">Luan Sousa, Manoel Santos Neto~</div>
   <div class="venue">25º SINAPE - Simpósio Nacional de Probabilidade e Estatística, Fortaleza, Brazil (August 2024)</div>
   <div class="summary">
     <p>The analysis of data containing zero observations presents challenges in econometrics, biological sciences, and actuarial studies, where variables of interest often assume null values in significant portions of the dataset. This phenomenon is common in insurance claim frequency studies (where some clients report no claims) or ecological surveys (where species may be absent from samples). Traditional regression models like gamma regression fail to accommodate this zero-inflation characteristic.</p>
     <p>Zero-adjusted regression models (zero-inflated or hurdle models) address this by separately modeling the probability of zero vs. positive observations. While Vitorino (2024) recently proposed a zero-adjusted inverse gamma distribution for descriptive analysis, it lacked regression capabilities. Our work extends this into a full regression framework, allowing covariate analysis for both the binary (zero vs. positive) and continuous (positive values) components. This provides researchers with a more flexible tool for zero-inflated positive continuous data with heavy-tailed characteristics.</p>
+    <a href="/mypaper/poster/Artigo_ZAIGA.pdf" class="pdf-button">View Full Paper</a>
   </div>
 </div>
 
 <div class="publication">
-  <h3><a href="/mypaper/poster/Poster_n2.pdf">Zero-adjusted Inverse Gamma Regression Model</a></h3>
+  <h3>Zero-adjusted Inverse Gamma Regression Model</h3>
   <div class="authors">Luan Sousa, Manoel Santos Neto~</div>
   <div class="venue">XLIII Encontro de Iniciação Científica - UFC, Fortaleza, Brazil (August 2024)</div>
   <div class="summary">
     <p>Extended version presented at the undergraduate research symposium, featuring additional simulation studies comparing our model's performance with Tweedie and zero-inflated gamma alternatives under varying zero-inflation scenarios (10%-90% zeros).</p>
+    <a href="/mypaper/poster/Poster_n2.pdf" class="pdf-button">View Extended Version</a>
   </div>
 </div>
 
-##  Thesis
+## Thesis
 
 <div class="publication">
-  <h3><a href="/mypaper/thesis/LuanSousa_Thesis.pdf">Predictive Modeling of League of Legends Matches Using Supervised Learning</a></h3>
+  <h3>Predictive Modeling of League of Legends Matches Using Supervised Learning</h3>
   <div class="authors">Luan Sousa (Advisor: Manoel Santos Neto)</div>
   <div class="venue">Undergraduate Thesis, Federal University of Ceará (March 2025) - <strong>Maximum grade</strong></div>
   <div class="summary">
@@ -42,6 +44,7 @@ title: Publications
       <li>Champion selection contributed 62% of model predictive power</li>
     </ul>
     <p>The framework demonstrates how machine learning can quantify strategic decision-making in competitive gaming.</p>
+    <a href="/mypaper/thesis/LuanSousa_Thesis.pdf" class="pdf-button">View Thesis</a>
   </div>
 </div>
 
@@ -77,5 +80,19 @@ title: Publications
   }
   strong {
     color: #2c3e50;
+  }
+  .pdf-button {
+    display: inline-block;
+    background: #2c3e50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    text-decoration: none;
+    transition: background 0.2s ease;
+  }
+  .pdf-button:hover {
+    background: #1a252f;
   }
 </style>
