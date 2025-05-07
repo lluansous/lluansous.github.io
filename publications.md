@@ -93,6 +93,6 @@ title: Publications
     transition: background 0.2s ease;
   }
   .pdf-button:hover {
-    background: #1a252f;
+    background: #b2c1cf;
   }
 </style>
