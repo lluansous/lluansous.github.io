@@ -83,7 +83,7 @@ title: Publications
   }
   .pdf-button {
     display: inline-block;
-    background: #5a5e63;
+    background: #acc7e8;
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 4px;
