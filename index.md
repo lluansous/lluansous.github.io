@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/laus.jpg" class="floatpic">
+<img src="/images/lks.jpg" class="floatpic">
 
 Here is **Luan Sousa**.<br>
 
