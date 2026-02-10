@@ -39,6 +39,5 @@ In my free time, I enjoy games, culinary explorations, among many other things.
 - **mar 2026**：I began my master's degree in Statistics at the Institute of Mathematics of the Federal University of Rio de Janeiro. 
 <br>
 
-<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7390054921271910401" height="844" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305338688178122753" height="843" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
 
