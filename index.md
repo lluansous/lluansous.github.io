@@ -7,12 +7,8 @@ layout: page
 <img src="/images/new.jpeg" class="floatpic">
 
 Here is **Luan Sousa**.<br>
-M.Sc. in Statistics | Institute of Mathematics (IM) – Federal University of Rio de Janeiro (UFRJ)
 
-Bachelor in Statistics and Data Science
-Federal University of Ceará (UFC) | Advisor: Prof. Manoel Santos Neto
-
-I hold a bachelor’s degree with a solid foundation in Statistics, Machine Learning, and Programming. I am proficient in Python and R, data retrieval and processing with SQL, predictive modeling using scikit-learn, and data visualization with Tableau, Matplotlib, and Seaborn.
+I am currently a Master’s student in Statistics at the Institute of Mathematics (IM) at UFRJ. I hold a bachelor’s degree with a solid foundation in Statistics, Machine Learning, and Programming. I am proficient in Python and R, data retrieval and processing with SQL, predictive modeling using scikit-learn, and data visualization with Tableau, Matplotlib, and Seaborn.
 
 My previous work and research have spanned Machine Learning (supervised and unsupervised learning) and Generalized Linear Models. Currently, as a Master's student, I focus on regularization techniques in machine learning models and Bayesian Artificial Intelligence, with special interest in Bayesian Networks. I am driven by the challenge of applying rigorous statistical methods to complex real-world problems, always aiming to generate value and meaningful insights.
 
