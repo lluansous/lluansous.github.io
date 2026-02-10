@@ -18,7 +18,7 @@ My previous work and research have spanned Machine Learning (supervised and unsu
 
 I am open to discussions and collaborations. Feel free to reach out:
 
-Email: luansousa@alu.ufc.br
+Email: luansousa@protonmail.com
 
 
 
