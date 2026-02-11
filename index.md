@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="/images/cart.png" class="floatpic" width="200" alt="Luan Sousa">
+<img src="/images/cart.png" class="floatpic" width="600" alt="Luan Sousa">
 
 **Luan Sousa** <br>
-| Degree | Institution | Department | Period |
-|--------|------------|------------|--------|
-| **M.Sc. in Statistics** | Federal University of Rio de Janeiro (UFRJ) | Department of Statistical Methods | 2026 – Present |
-| **B.Sc. in Statistics** | Federal University of Ceará (UFC) | Department of Statistics and Applied Mathematics | – 2025 |
+
+
+| **M.Sc. in Statistics** | Federal University of Rio de Janeiro (UFRJ) | Department of Statistical Methods 
+| **B.Sc. in Statistics** | Federal University of Ceará (UFC) | Department of Statistics and Applied Mathematics 
 
 
 
