@@ -9,7 +9,7 @@ layout: page
 Here is **Luan Sousa** <br>
 M.Sc. Student in Statistics, Federal University of Rio de Janeiro (UFRJ) <br>
 
-B.Sc. in Statistics, Federal University of Ceará (UFC) <br>
+<br> B.Sc. in Statistics, Federal University of Ceará (UFC) <br>
 
 
 
