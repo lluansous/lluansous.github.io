@@ -4,40 +4,54 @@ layout: page
 
 # About Me
 
-<img src="/images/jul.jpg" class="floatpic">
+<img src="/images/cart.png" class="floatpic" width="200" alt="Luan Sousa">
 
-Here is **Luan Sousa**.<br>
+**Luan Sousa** <br>
+M.Sc. Student in Statistics, Federal University of Rio de Janeiro (UFRJ) <br>
+B.Sc. in Statistics, Federal University of Ceará (UFC)
 
-I am currently a Master’s student in Statistics at the Institute of Mathematics (IM) at UFRJ. I hold a bachelor’s degree with a solid foundation in Statistics, Machine Learning, and Programming. I am proficient in Python and R, data retrieval and processing with SQL, predictive modeling using scikit-learn, and data visualization with Tableau, Matplotlib, and Seaborn.
+---
 
-My previous work and research have spanned Machine Learning (supervised and unsupervised learning) and Generalized Linear Models. Currently, as a Master's student, I focus on regularization techniques in machine learning models and Bayesian Artificial Intelligence, with special interest in Bayesian Networks. I am driven by the challenge of applying rigorous statistical methods to complex real-world problems, always aiming to generate value and meaningful insights.
+## Education
 
-I am open to discussions and collaborations. Feel free to reach out:
+| Degree | Institution | Department | Period |
+|--------|------------|------------|--------|
+| **M.Sc. in Statistics** | Federal University of Rio de Janeiro (UFRJ) | Department of Statistical Methods | 2026 – Present |
+| **B.Sc. in Statistics** | Federal University of Ceará (UFC) | Department of Statistics and Applied Mathematics | – 2025 |
 
-Email: luansousa@protonmail.com
+---
 
+## Profile
 
+I hold a Bachelor's degree in Statistics from the Federal University of Ceará (UFC) and am currently pursuing a Master's degree in Statistics at the Federal University of Rio de Janeiro (UFRJ). My academic background provides a solid foundation in Statistical Theory, Machine Learning, and Computational Methods.
+
+I am proficient in Python and R for statistical computing, data retrieval and processing using SQL, predictive modeling with scikit-learn, and data visualization through Tableau, Matplotlib, and Seaborn.
+
+My undergraduate research focused on supervised learning applications, specifically predictive modeling in competitive gaming environments. Currently, as a Master's student, my research interests include regularization techniques in high-dimensional models and Bayesian methods, with emphasis on Bayesian Networks and Bayesian Artificial Intelligence.
+
+I am committed to the application of rigorous statistical methodologies to complex real-world problems, aiming to produce reproducible research and actionable insights.
+
+For academic or professional inquiries, please contact:  
+**Email:** luansousa@protonmail.com
 
 ---
 
 ## Research Interests
 
-- Regularization in Machine Learning
+- Regularization and Variable Selection
+- High-Dimensional Statistical Learning
+- Bayesian Networks and Graphical Models
 - Bayesian Artificial Intelligence
-- Bayesian Networks
-- Supervised Learning
-
-In my free time, I enjoy games, culinary explorations, among many other things.
-
+- Supervised and Unsupervised Learning
 
 ---
 
 ## News and Updates
 
-- **August 2024**：Presented our work "Adjusted Zero Gamma Inverse Regression Model" (Modelo de regressão gama inversa com zeros ajustados) at the 25º SINAPE in Fortaleza!
-- **March 2025：**Successfully defended my monograph "Predictive Modeling of League of Legends Using Supervised Learning" (Modelagem Preditiva de League of Legends Usando Aprendizado Supervisionado) and received top honors!
-- **mar 2026**：I began my master's degree in Statistics at the Institute of Mathematics of the Federal University of Rio de Janeiro. 
+- **August 2024:** Presented "Adjusted Zero Gamma Inverse Regression Model" (Modelo de regressão gama inversa com zeros ajustados) at the 25º SINAPE, Fortaleza, Brazil.
+- **March 2025:** Defended undergraduate monograph "Predictive Modeling of League of Legends Using Supervised Learning" (Modelagem Preditiva de League of Legends Usando Aprendizado Supervisionado) with top honors.
+- **March 2026:** Began Master's degree in Statistics at the Institute of Mathematics, Federal University of Rio de Janeiro.
+
 <br>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305338688178122753" height="843" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305338688178122753" height="843" width="504" frameborder="0" allowfullscreen="" title="LinkedIn Publication"></iframe>
