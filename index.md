@@ -6,6 +6,20 @@ layout: page
 
 <img src="/images/cart.png" class="floatpic" width="200" alt="Luan Sousa">
 
+Here is **Luan Sousa** <br>
+M.Sc. Student in Statistics, Federal University of Rio de Janeiro (UFRJ) <br>
+B.Sc. in Statistics, Federal University of Ceará (UFC)
+
+---
+
+
+| Degree | Institution | Department | Period |
+|--------|------------|------------|--------|
+| **M.Sc. in Statistics** | Federal University of Rio de Janeiro (UFRJ) | Department of Statistical Methods | 2026 – Present |
+| **B.Sc. in Statistics** | Federal University of Ceará (UFC) | Department of Statistics and Applied Mathematics | – 2025 |
+
+---
+
 
 I hold a Bachelor's degree in Statistics from the Federal University of Ceará (UFC) and am currently pursuing a Master's degree in Statistics at the Federal University of Rio de Janeiro (UFRJ). My academic background provides a solid foundation in Statistical Theory, Machine Learning, and Computational Methods.
 
