@@ -6,11 +6,7 @@ layout: page
 
 <img src="/images/cart.png" class="floatpic" width="200" alt="Luan Sousa">
 
-Here is **Luan Sousa** <br>
-M.Sc. Student in Statistics, Federal University of Rio de Janeiro (UFRJ) <br>
-
-<br> B.Sc. in Statistics, Federal University of Ceará (UFC) <br>
-
+Here is **Luan Sousa** 
 
 
 ---
